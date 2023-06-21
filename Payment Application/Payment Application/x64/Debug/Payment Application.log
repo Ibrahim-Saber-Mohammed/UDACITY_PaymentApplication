@@ -1,0 +1,3 @@
+﻿  server.c
+E:\Courses\Udacity ES\Payment Application\Payment Application\server.c(16,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Payment Application.vcxproj -> E:\Courses\Udacity ES\Payment Application\x64\Debug\Payment Application.exe
