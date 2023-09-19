@@ -1,0 +1,3 @@
+K:/New folder/UdacityPr (1)/Code/Build/CMakeFiles/Udacity.dir
+K:/New folder/UdacityPr (1)/Code/Build/CMakeFiles/edit_cache.dir
+K:/New folder/UdacityPr (1)/Code/Build/CMakeFiles/rebuild_cache.dir
